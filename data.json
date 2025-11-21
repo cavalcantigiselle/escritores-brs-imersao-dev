@@ -1,0 +1,391 @@
+[
+  {
+    "nome": "Ariano Suassuna",
+    "descricao": "Escritor paraibano criador do movimento Armorial.",
+    "ano": "1927 a 2014",
+    "link": "https://www.ebiografia.com/ariano_suassuna/"
+  },
+  {
+    "nome": "João Cabral de Melo Neto",
+    "descricao": "Pernambucano, poeta e diplomata.",
+    "ano": "1920 a 1999",
+    "link": "https://www.ebiografia.com/joao_cabral_de_melo_neto/"
+  },
+  {
+    "nome": "Graciliano Ramos",
+    "descricao": "Alagoano, um dos maiores romancistas modernistas, conhecido por 'Vidas Secas'.",
+    "ano": "1892 a 1953",
+    "link": "https://www.ebiografia.com/graciliano_ramos/"
+  },
+  {
+    "nome": "Jorge Amado",
+    "descricao": "Baiano, sua obra retrata um Brasil mestiço e alegre, autor de 'Gabriela, Cravo e Canela'.",
+    "ano": "1912 a 2001",
+    "link": "https://www.ebiografia.com/jorge_amado/"
+  },
+  {
+    "nome": "Rachel de Queiroz",
+    "descricao": "Cearense, primeira mulher a ingressar na Academia Brasileira de Letras e autora de 'O Quinze'.",
+    "ano": "1910 a 2003",
+    "link": "https://www.ebiografia.com/rachel_de_queiroz/"
+  },
+  {
+    "nome": "Gonçalves Dias",
+    "descricao": "Maranhense, grande poeta do Romantismo brasileiro, famoso pela 'Canção do Exílio'.",
+    "ano": "1823 a 1864",
+    "link": "https://www.ebiografia.com/goncalves_dias/"
+  },
+  {
+    "nome": "Castro Alves",
+    "descricao": "Baiano, conhecido como o 'Poeta dos Escravos' pela sua poesia abolicionista.",
+    "ano": "1847 a 1871",
+    "link": "https://www.ebiografia.com/castro_alves/"
+  },
+  {
+    "nome": "Machado de Assis",
+    "descricao": "Considerado o maior nome da literatura brasileira, fundador da Academia Brasileira de Letras. Autor de 'Dom Casmurro'.",
+    "ano": "1839 a 1908",
+    "link": "https://www.ebiografia.com/machado_de_assis/"
+  },
+  {
+    "nome": "Clarice Lispector",
+    "descricao": "Nascida na Ucrânia e naturalizada brasileira, uma das escritoras mais importantes do século XX, conhecida por seus romances introspectivos como 'A Hora da Estrela'.",
+    "ano": "1920 a 1977",
+    "link": "https://www.ebiografia.com/clarice_lispector/"
+  },
+  {
+    "nome": "Carlos Drummond de Andrade",
+    "descricao": "Poeta, contista e cronista mineiro, um dos principais nomes da segunda geração do Modernismo brasileiro. Autor de 'Sentimento do Mundo'.",
+    "ano": "1902 a 1987",
+    "link": "https://www.ebiografia.com/carlos_drummond_de_andrade/"
+  },
+  {
+    "nome": "Cecília Meireles",
+    "descricao": "Poetisa, professora e jornalista, destaque da segunda fase do Modernismo. Conhecida pela obra 'Romanceiro da Inconfidência'.",
+    "ano": "1901 a 1964",
+    "link": "https://www.ebiografia.com/cecilia_meireles/"
+  },
+  {
+    "nome": "Monteiro Lobato",
+    "descricao": "Um dos mais influentes escritores brasileiros, atuou no pré-modernismo e é mais conhecido por sua obra infantil, como 'O Sítio do Picapau Amarelo'.",
+    "ano": "1882 a 1948",
+    "link": "https://www.ebiografia.com/monteiro_lobato/"
+  },
+  {
+    "nome": "José de Alencar",
+    "descricao": "Cearense, um dos maiores expoentes do Romantismo no Brasil, autor de romances indianistas como 'Iracema' e 'O Guarani'.",
+    "ano": "1829 a 1877",
+    "link": "https://www.ebiografia.com/jose_de_alencar/"
+  },
+  {
+    "nome": "Cora Coralina",
+    "descricao": "Poetisa e contista goiana que publicou seu primeiro livro aos 75 anos. Sua obra retrata o cotidiano do interior do Brasil.",
+    "ano": "1889 a 1985",
+    "link": "https://www.ebiografia.com/cora_coralina/"
+  },
+  {
+    "nome": "Érico Veríssimo",
+    "descricao": "Um dos mais importantes romancistas brasileiros do século XX, conhecido por sua obra 'O Tempo e o Vento', que retrata a história do Rio Grande do Sul.",
+    "ano": "1905 a 1975",
+    "link": "https://www.ebiografia.com/erico_verissimo/",
+    "tags": [
+      "romancista",
+      "regionalista",
+      "escritor",
+      "modernismo",
+      "história"
+    ]
+  },
+  {
+    "nome": "Mário de Andrade",
+    "descricao": "Poeta, romancista, crítico de arte e um dos fundadores do Modernismo brasileiro, autor de 'Macunaíma'.",
+    "ano": "1893 a 1945",
+    "link": "https://www.ebiografia.com/mario_de_andrade/",
+    "tags": [
+      "poeta",
+      "modernista",
+      "romancista",
+      "crítico",
+      "ensaísta"
+    ]
+  },
+  {
+    "nome": "Oswald de Andrade",
+    "descricao": "Escritor e dramaturgo, figura central do Modernismo, famoso pelo 'Manifesto Antropófago'.",
+    "ano": "1890 a 1954",
+    "link": "https://www.ebiografia.com/oswald_de_andrade/",
+    "tags": [
+      "modernista",
+      "dramaturgo",
+      "poeta",
+      "manifesto"
+    ]
+  },
+  {
+    "nome": "Lima Barreto",
+    "descricao": "Escritor pré-modernista conhecido por sua crítica social e por obras como 'Triste Fim de Policarpo Quaresma'.",
+    "ano": "1881 a 1922",
+    "link": "https://www.ebiografia.com/lima_barreto/",
+    "tags": [
+      "pré-modernista",
+      "romancista",
+      "crítico social",
+      "cronista"
+    ]
+  },
+  {
+    "nome": "Manuel Bandeira",
+    "descricao": "Um dos maiores poetas modernistas, conhecido pela simplicidade e lirismo de sua poesia, abordando temas cotidianos e a morte.",
+    "ano": "1886 a 1968",
+    "link": "https://www.ebiografia.com/manuel_bandeira/",
+    "tags": [
+      "poeta",
+      "modernista",
+      "lírico",
+      "cronista"
+    ]
+  },
+  {
+    "nome": "João Guimarães Rosa",
+    "descricao": "Médico e diplomata, revolucionou a literatura brasileira com sua linguagem inventiva e neologismos, autor de 'Grande Sertão: Veredas'.",
+    "ano": "1908 a 1967",
+    "link": "https://www.ebiografia.com/joao_guimaraes_rosa/",
+    "tags": [
+      "romancista",
+      "regionalista",
+      "modernismo",
+      "sertão",
+      "linguista"
+    ]
+  },
+  {
+    "nome": "Lygia Fagundes Telles",
+    "descricao": "Mestra do conto e do romance psicológico contemporâneo, conhecida por explorar o universo feminino e as inquietações urbanas.",
+    "ano": "1923 a 2022",
+    "link": "https://www.ebiografia.com/lygia_fagundes_telles/",
+    "tags": [
+      "romancista",
+      "contista",
+      "psicológica",
+      "feminina"
+    ]
+  },
+  {
+    "nome": "Rubem Fonseca",
+    "descricao": "Um dos principais contistas e romancistas contemporâneos, famoso por seu estilo seco, violento e pela exploração da vida urbana.",
+    "ano": "1925 a 2020",
+    "link": "https://www.ebiografia.com/rubem_fonseca/",
+    "tags": [
+      "contista",
+      "romancista",
+      "contemporâneo",
+      "urbano",
+      "policial"
+    ]
+  },
+  {
+    "nome": "Dalton Trevisan",
+    "descricao": "Conhecido como o 'Vampiro de Curitiba', é um mestre do conto, caracterizado pela concisão e pelo retrato ácido da vida burguesa.",
+    "ano": "1925 a atual",
+    "link": "https://www.ebiografia.com/dalton_trevisan/",
+    "tags": [
+      "contista",
+      "contemporâneo",
+      "cronista",
+      "paranaense"
+    ]
+  },
+  {
+    "nome": "Nélida Piñon",
+    "descricao": "Escritora de ficção e ensaios, primeira mulher a presidir a Academia Brasileira de Letras (ABL), com vasta obra de fundo mítico e histórico.",
+    "ano": "1937 a 2022",
+    "link": "https://www.ebiografia.com/nelida_pinon/",
+    "tags": [
+      "romancista",
+      "ensaísta",
+      "feminina",
+      "acadêmica"
+    ]
+  },
+  {
+    "nome": "Adélia Prado",
+    "descricao": "Poetisa e escritora conhecida por abordar o cotidiano, a fé e o universo feminino com uma linguagem simples e profunda.",
+    "ano": "1935 a atual",
+    "link": "https://www.ebiografia.com/adelia_prado/",
+    "tags": [
+      "poetisa",
+      "contemporânea",
+      "religiosidade",
+      "feminina"
+    ]
+  },
+  {
+    "nome": "Ferreira Gullar",
+    "descricao": "Poeta, crítico de arte, ensaísta e dramaturgo, grande nome da poesia contemporânea brasileira, notável por sua militância política e social.",
+    "ano": "1930 a 2016",
+    "link": "https://www.ebiografia.com/ferreira_gullar/",
+    "tags": [
+      "poeta",
+      "crítico de arte",
+      "dramaturgo",
+      "militante"
+    ]
+  },
+  {
+    "nome": "Gilberto Freyre",
+    "descricao": "Sociólogo e escritor de grande influência, sua obra 'Casa-Grande & Senzala' é fundamental para a compreensão da formação social do Brasil.",
+    "ano": "1900 a 1987",
+    "link": "https://www.ebiografia.com/gilberto_freyre/",
+    "tags": [
+      "sociólogo",
+      "ensaísta",
+      "historiador",
+      "antropólogo"
+    ]
+  },
+  {
+    "nome": "Bernardo Guimarães",
+    "descricao": "Poeta e romancista da fase romântica, célebre por obras regionalistas como 'A Escrava Isaura' e 'O Seminarista'.",
+    "ano": "1825 a 1884",
+    "link": "https://www.ebiografia.com/bernardo_guimaraes/",
+    "tags": [
+      "romancista",
+      "poeta",
+      "romantismo",
+      "regionalista"
+    ]
+  },
+  {
+    "nome": "Aluísio Azevedo",
+    "descricao": "Principal nome do Naturalismo brasileiro, abordando temas sociais e patológicos com rigor científico, autor de 'O Cortiço'.",
+    "ano": "1857 a 1913",
+    "link": "https://www.ebiografia.com/aluisio_azevedo/",
+    "tags": [
+      "naturalista",
+      "romancista",
+      "dramaturgo",
+      "cronista"
+    ]
+  },
+  {
+    "nome": "Olavo Bilac",
+    "descricao": "Um dos principais poetas do Parnasianismo, conhecido pela perfeição formal de seus versos e autor da letra do Hino à Bandeira Nacional.",
+    "ano": "1865 a 1918",
+    "link": "https://www.ebiografia.com/olavo_bilac/",
+    "tags": [
+      "poeta",
+      "parnasiano",
+      "jornalista",
+      "cronista"
+    ]
+  },
+  {
+    "nome": "Padre Antônio Vieira",
+    "descricao": "Um dos maiores oradores da língua portuguesa, figura central do Barroco Luso-Brasileiro, famoso por seus Sermões.",
+    "ano": "1608 a 1697",
+    "link": "https://www.ebiografia.com/padre_antonio_vieira/",
+    "tags": [
+      "orador",
+      "barroco",
+      "jesuíta",
+      "sermonista"
+    ]
+  },
+  {
+    "nome": "João da Cruz e Sousa",
+    "descricao": "O 'Cisne Negro', principal expoente do Simbolismo no Brasil, cuja poesia é marcada pela musicalidade e profundidade metafísica.",
+    "ano": "1861 a 1898",
+    "link": "https://www.ebiografia.com/cruz_e_sousa/",
+    "tags": [
+      "poeta",
+      "simbolista",
+      "negro",
+      "lírico"
+    ]
+  },
+  {
+    "nome": "Alphonsus de Guimaraens",
+    "descricao": "Outro grande poeta simbolista, sua obra é dominada por temas religiosos, a morte e o amor místico, com forte influência medieval.",
+    "ano": "1870 a 1921",
+    "link": "https://www.ebiografia.com/alphonsus_de_guimaraens/",
+    "tags": [
+      "poeta",
+      "simbolista",
+      "místico",
+      "religioso"
+    ]
+  },
+  {
+    "nome": "Paulo Lins",
+    "descricao": "Escritor e poeta contemporâneo, autor de 'Cidade de Deus', obra fundamental sobre a violência e a vida nas favelas cariocas.",
+    "ano": "1958 a atual",
+    "link": "https://www.ebiografia.com/paulo_lins/",
+    "tags": [
+      "escritor",
+      "contemporâneo",
+      "poeta",
+      "urbano",
+      "roteirista"
+    ]
+  },
+  {
+    "nome": "Milton Hatoum",
+    "descricao": "Romancista de ascendência libanesa, conhecido por retratar a vida em Manaus e o drama familiar em obras como 'Dois Irmãos'.",
+    "ano": "1952 a atual",
+    "link": "https://www.ebiografia.com/milton_hatoum/",
+    "tags": [
+      "romancista",
+      "contemporâneo",
+      "amazônico",
+      "tradutor"
+    ]
+  },
+  {
+    "nome": "Raduan Nassar",
+    "descricao": "Escritor com uma produção concisa, mas de enorme impacto, conhecido pela intensidade e densidade de 'Lavoura Arcaica' e 'Um Copo de Cólera'.",
+    "ano": "1935 a atual",
+    "link": "https://www.ebiografia.com/raduan_nassar/",
+    "tags": [
+      "romancista",
+      "contista",
+      "contemporâneo",
+      "minimalista"
+    ]
+  },
+  {
+    "nome": "Luís Fernando Veríssimo",
+    "descricao": "Um dos cronistas mais populares do Brasil, famoso pelo seu humor e observação aguda do cotidiano brasileiro, e criador de 'O Analista de Bagé'.",
+    "ano": "1936 a atual",
+    "link": "https://www.ebiografia.com/luis_fernando_verissimo/",
+    "tags": [
+      "cronista",
+      "humorista",
+      "jornalista",
+      "contemporâneo"
+    ]
+  },
+  {
+    "nome": "Murilo Mendes",
+    "descricao": "Poeta da segunda geração modernista, sua obra é marcada pelo surrealismo, pelo humor e por profundas reflexões metafísicas.",
+    "ano": "1901 a 1975",
+    "link": "https://www.ebiografia.com/murilo_mendes/",
+    "tags": [
+      "poeta",
+      "modernista",
+      "surrealista",
+      "crítico"
+    ]
+  },
+  {
+    "nome": "Autran Dourado",
+    "descricao": "Romancista mineiro conhecido por explorar a memória, a tradição e as relações de poder familiar, com destaque para 'Ópera dos Mortos'.",
+    "ano": "1926 a 2012",
+    "link": "https://www.ebiografia.com/autran_dourado/",
+    "tags": [
+      "romancista",
+      "contemporâneo",
+      "ficção psicológica",
+      "mineiro"
+    ]
+  }
+]
